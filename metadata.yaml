@@ -15,5 +15,5 @@
 homepage: "https://www.asiastars.org/"
 documentation: "https://www.asiastars.org/%e3%82%a2%e3%83%8a%e3%83%aa%e3%83%86%e3%82%a3%e3%82%af%e3%82%b9/%e6%97%a5%e6%9c%ac%e8%aa%9eurl%e3%81%ab%e5%af%be%e5%bf%9c%e3%81%97%e3%81%9f%e5%a4%89%e6%95%b0%e3%83%86%e3%83%b3%e3%83%97%e3%83%ac%e3%83%bc%e3%83%88%ce%b2/"
 versions:
-  - sha: 5f02a788b90ae804f86b04aa24af8937e567874a
+  - sha: be57fcda7163e2c454c9485cdd95ed56e536cd43
     changeNotes: Initial Version
